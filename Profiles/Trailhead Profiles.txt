@@ -5,4 +5,16 @@ Trailhead Profile - https://www.salesforce.com/trailblazer/sowmyakapuveedhi
 Username (Developer Org) - K.sowmyamecs@gdcproject.com
 Contact - 7013328288
 
-Name - 
+Name - KATHI CHANDANA
+LEARNING TRACK - DEVELOPER
+Email - kathichandana07@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/chandanakathi
+Username (Developer Org) - chandanamecs@gdcproject.com
+Contact - 9110568907
+
+Name - Jalla Neelima
+LEARNING TRACK - DEVELOPER
+Email - jalla.neelima2004@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/jallaneelima
+Username (Developer Org) - j.neelimamecs@gdcproject.com
+Contact - 9441335060
