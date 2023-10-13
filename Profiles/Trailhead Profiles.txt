@@ -12,9 +12,23 @@ Trailhead Profile - https://www.salesforce.com/trailblazer/chandanakathi
 Username (Developer Org) - chandanamecs@gdcproject.com
 Contact - 9110568907
 
-Name - Jalla Neelima
+Name - JALLA NEELIMA
 LEARNING TRACK - DEVELOPER
 Email - jalla.neelima2004@gmail.com
 Trailhead Profile - https://www.salesforce.com/trailblazer/jallaneelima
 Username (Developer Org) - j.neelimamecs@gdcproject.com
 Contact - 9441335060
+
+Name - AMBARAPU MUBEENA BANU
+LEARNING TRACK - DEVELOPER
+Email - mubeenabanuambarapu@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/ambarapumubeenabanu
+Username (Developer Org) - A.mubeenamecs@gdcproject.com
+Contact - 6309715629
+
+Name - SUNDU PAVITHRA
+LEARNING TRACK - DEVELOPER
+Email - sundupavithra13@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/pavithrasundu
+Username (Developer Org) - sundupavithra@gdcproject.com
+Contact - 9390169065
